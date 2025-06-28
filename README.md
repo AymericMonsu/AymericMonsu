@@ -33,7 +33,7 @@ Ancien développeur, je me spécialise aujourd’hui dans la **data en finance**
 
 ## 📚 Formations
 
-- 🎓 **RNCP Niveau 6 – Développeur logiciel**
+- 🎓 **RNCP Niveau 6 – Concepteur Développeur d'Applications**
 - 🎓 **Futur Bachelor Finance + Mastère Management Financier** – *IFA Business School (Metz) – Rentrée 2026*
 - 🎯 Auto-formation intensive sur **Python, Power BI, Analyse financière & GRC**
 
@@ -58,7 +58,7 @@ Ancien développeur, je me spécialise aujourd’hui dans la **data en finance**
 
 ## 💬 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/monsu-aymeric/) *(optionnel)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/monsu-aymeric/)
 - ✉️ [monsuaymeric10@gmail.com](mailto:monsuaymeric10@gmail.com)
 - 📂 Mon portfolio : bientôt disponible ici
 
